@@ -41,5 +41,5 @@
 .fa-plus-circle::before {
   content: "\f055"; }
 
-  .fa-ellipsis-vertical::before {
-  content: "\f142"; }
+.fa-ellipsis-vertical::before {
+content: "\f142"; }
